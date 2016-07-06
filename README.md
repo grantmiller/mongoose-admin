@@ -2,7 +2,7 @@
 
  [Mongoose-Admin](http://www.github.com/marccampbell/mongo-admin) is a plug in admin tool for [mongoose](http://learnboost.github.com/mongoose) for [node.js](http://nodejs.org).
 
-## Installation
+## Installation is fun
 
 ```bash
 $ npm install mongoose-admin
